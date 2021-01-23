@@ -1,0 +1,9 @@
+Uygulamayı Çalıştırma
+1->Proje açıldıktan sonra run işlemi yapılır.
+2->Kullanıcının karşısına çıkan konsolda gidilecek şehirler istenmektedir. 
+3->Kaç tane şehre gitmek istiyorsa şehir plakalarının arasında boşluk bırakacak şekilde girerek, şehir adedi sayısınca plaka kodlarını girmesi istenmektedir.
+
+Örneğin: Konsol Çıktısı
+
+Gitmek istediğiniz şehirleri aralarında boşluk bırakarak yazınız.
+14 6 16 22 34 24 
